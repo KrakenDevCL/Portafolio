@@ -43,7 +43,7 @@ Trabajo tanto en el **frontend** como en el **backend**, integrando soluciones e
 
 📧 **Email:** jgallegoscarvallo@gmail.com  
 💼 **LinkedIn:** [José Antonio Gallegos Carvallo](https://www.linkedin.com/in/jos%C3%A9-antonio-gallegos-carvallo-960672161/)  
-🌐 **Portafolio Web:** [Portafolio KrakenDevCL]([URL-del-portafolio](https://krakendevcl.github.io/Portafolio/index.html)  
+🌐 **Portafolio Web:** [Portafolio KrakenDevCL](https://krakendevcl.github.io/Portafolio/index.html)  
 
 ---
 
